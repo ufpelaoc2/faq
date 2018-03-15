@@ -1,20 +1,17 @@
-# FAQ - Sistemas Operacionais
+# FAQ - Arquitetura e Organização de Computadores II
 Prof. Maurício Lima Pilla
 
 
 ## Organização
 
-Este FAQ da disciplina de Sistemas Operacionais está organizado pelos tópicos do plano de ensino. 
+Este FAQ da disciplina de AOC2 está organizado pelos tópicos do plano de ensino. 
 
 - Introdução
-- Processos e Threads
-- Concorrência e Sincronização
-- Gerência de Processos e Threads
-- Gerência de Memória
+- Hierarquias de Memória (_caches_)
+- Paginação e TLB
 - Memória Virtual
-- Sistemas de Arquivos
-- Gerência de Entrada e Saída
-- Armazenamento em Massa
+- Barramentos e Entrada e Saída
+- Arquiteturas Atuais e do Futuro
 
 ## Como Contribuir
 
@@ -38,9 +35,8 @@ O que NÃO pode ser contribuído:
 
 ## Exemplo de Estilo
 
-### P: Qual o process id do processo INIT no Linux?
-R: O _pid_ do INIT no Linux é 1. Fonte: [1]
-
+### P: Que cor é o pé do Pedro?
+R: O pé do Pedro é preto. Fonte: [1]
 
 
 
